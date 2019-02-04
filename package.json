@@ -1,0 +1,15 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "thing to get the weather in terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mpmckenna8",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "request": "^2.88.0"
+  }
+}
